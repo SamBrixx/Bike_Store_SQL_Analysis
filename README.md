@@ -38,11 +38,11 @@ This project highlights proficiency in the following SQL concepts:
 ## Key Findings
 
 After performing the analysis, I was able to uncover several valuable insights:
-- The top-performing store was [Store Name], which generated [X]% of the total company revenue in the analyzed period.
+- The top-performing store was Baldwin Bikes, which generated $ 5,215,751.28, which is 67.83% of the total company revenue in the analyzed period from 2016 to 2017.
 
-- [Product Category] was the most popular product category, accounting for [Y]% of all sales.
+- Mountain Bikes was the most popular product category, generating a revenue of $2,715,079.53 accounting for 35.31% of all sales.
 
-- The top customer was [Customer Name], who spent [$$ amount] and placed [#] orders.
+- The top customer was Sharyn Hopkins, who spent $ 34,807 worth of orders.
 
 ## Project Files
 
