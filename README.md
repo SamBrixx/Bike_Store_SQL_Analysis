@@ -46,12 +46,12 @@ After performing the analysis, I was able to uncover several valuable insights:
 
 ## Project Files
 
- . queries/: This directory contains all the SQL queries written for this analysis, each well-commented to explain its purpose and logic.
+ .     Bike_Store_SQL_Analysis/: This directory contains all the SQL queries written for this analysis, each well-commented to explain its purpose and logic.
 
-        revenue_by_store.sql
+        customer_insights.sql
 
-        top_customers.sql
+        inventory_management.sql
 
         product_performance.sql
 
-        staff_sales_report.sql
+        sales_performance.sql
